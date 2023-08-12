@@ -4,30 +4,14 @@ title: About
 permalink: /about/
 ---
 
-My album "20:20" is out! I'd love it if you gave it a listen and even more if you let me know what you think. Check this [post](../posts/2020) out if you want the inside look!!
-
-<div style='width:310px; display:block; margin:auto;' id='listen-buttons'>
-  <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/album/59XsCfLvhm2MeTjuOznlwU">
-    <img width="100px" src="/assets/2021-04-27-2020/listen_spotify.png"/> 
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://music.apple.com/us/album/20-20/1565541043">
-    <img width="100px" src="/assets/2021-04-27-2020/listen_apple.png"/> 
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=OLAK5uy_kCZebWum348RWDBnE7zEAgmnygCzP2OKg">
-    <img width="100px" src="/assets/2021-04-27-2020/listen_yt.png"/> 
-  </a>
-</div>
-
---
-
-Hello :) My name is Pedram and this is my personal blog. I use this corner of the internet to jot down my thoughts, articulate my views on topics that interest me and document my journey through the space of ideas.
+Hello! My name is Pedram and this is my personal blog. I use this corner of the internet to jot down my thoughts, articulate my views on topics that interest me and document my journey through the space of ideas.
 
 While most of the content here will be technical notes and posts ([a](/posts/evolution-of-hardware-for-deep-learning) [couple](/posts/Recurrent-Neural-Networks) [favorites](/posts/serving-tf-on-cpu)), I try to reserve some room to explore my understanding of the more nebulous aspects of humanity and life. A few such essays that could most use some feedback: [principles](/thoughts/principles), [sacrifice](/posts/on-sacrifice), [maturity](/thoughts/maturity) and [personality](/thoughts/personality).
 
 {% include signup_form.html %}
 -- 
 
-I currently work at Google Brain on systems for machine learning, researching and building [large-scale](http://stevenwhang.com/tfx_paper.pdf), [open-source](https://github.com/tensorflow/tfx) software systems that allow others to design and build [software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35). More specifically, I have spent the past couple years building and scaling Google's next generation machine learning platform used by teams across Search, Maps, YouTube, Ads, etc. 
+I currently lead the API team on Google's internal LLM instruction tuning platform. Before that I spent a few year Google Brain working on systems for machine learning, researching and building [large-scale](http://stevenwhang.com/tfx_paper.pdf), [open-source](https://github.com/tensorflow/tfx) software systems that allow others to design and build [software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35). 
 
 Outside of my work, I spend most of my time thinking about the following:
 
@@ -50,4 +34,4 @@ Since beginning of 2019, [peddy.ai](http://peddy.ai) has been my home on the int
 Unsurprisingly, most neighborhoods within this domain are restricted and [should be] unreachable without proper credentials. While not a security expert by any means, I've spent a great deal of time designing the security posture of this tiny part of the interwebs that I control. If you're interested in network security (and a nice person :)), please feel free to snoop around and let me know if I have left any backdoors open.
 
 
-If any of the content on this site interests you, please feel free to [reach out](/contact/) to me - I have many thoughts and far too few people to share them with :)
+If any of the content on this site interests you, please feel free to [reach out](/contact/) to me - I have many thoughts and far too few people to share them with.
