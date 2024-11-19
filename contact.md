@@ -12,10 +12,10 @@ Email: peddy@peddy.ai
 
 I'm not particularly active on Twitter, but it has led me to find some fascinating people.
 
-Twitter: [@misterpeddy](https://twitter.com/misterpeddy)
+Twitter: [@misterpeddy](https://twitter.com/peddybeats)
 
 I'm a huge proponent of open source software and try to do most of my development work in the open.
 
-Github: [@misterpeddy](https://github.com/misterpeddy)
+Github: [@misterpeddy](https://github.com/peddybeats)
 
 {% include signup_form.html %}
